@@ -1,0 +1,43 @@
+body
+{
+	background-color: #3a0ca3;
+	color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+main {
+        padding: 20px;
+    }
+
+    .fornut {
+        background-color: #f8f9fa;
+        border-radius: 5px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    form {
+        margin-bottom: 20px;
+    }
+
+    form b {
+        font-weight: bold;
+    }
+
+    form input[type="text"] {
+        width: 100px;
+        margin-right: 10px;
+    }
+
+    form input[type="submit"] {
+        margin-right: 10px;
+    }
+
+    p {
+        margin-bottom: 10px;
+    }

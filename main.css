@@ -1,0 +1,234 @@
+body
+{
+	background-color: #3a0ca3;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h1
+{
+	font-size: 36px;
+	font-weight: 400;
+	color: #C0D06F;
+	margin: 20px;
+}
+
+.jumpers
+{
+	text-align: center;
+}
+
+.jumpers img
+{
+	width: 100%;
+	height: auto;
+}
+
+.jumpers p
+{
+	margin-bottom: 30px;
+}
+
+.jumpers figcaption
+{
+	margin-top: 8px;
+}
+.jumpers a
+{
+	color:red;
+}
+.start
+{
+	text-align: center;
+}
+
+.start img
+{
+	width: 500px;
+	height: 550px;
+	padding-top:30px;
+}
+
+.start p
+{
+	margin-bottom: 30px;
+}
+
+.start figcaption
+{
+	margin-top: 8px;
+}
+.start a
+{
+	color:red;
+}
+.formularz
+
+{
+
+	text-align: center;
+
+	position:relative;
+
+	padding-top:200px;
+
+	color:black;
+
+	height:877px;
+
+}
+
+
+
+.formularz figcaption
+
+{
+
+	margin-top: 8px;
+
+}
+
+.formularz a
+
+{
+
+	color:red;
+
+}
+
+.formularz h1{
+
+	color:black;
+
+	text-weight:bold;
+
+}
+
+.formularz select{
+
+	width:203px;
+
+}
+
+.formularz button
+
+{
+
+	background-color:red;
+
+
+
+}
+
+.formularz table
+
+{
+
+	margin:0 auto;
+
+}
+
+
+.fixed-ratio-resize {
+  max-width: 100%;
+  height: auto;
+  width: auto\9;
+  }
+h2 
+{
+	width:50%;
+}
+.formField
+{font: inherit; 
+border: 1px solid #ccc;
+border-radius: 3px; margin: 3px 0 10px 0; 
+padding: 3px 0;}
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 25%;
+}
+.fornut
+
+{
+
+	text-align: center;
+
+	padding-left:600px;
+
+	padding-right:600px;
+
+}
+
+
+
+.fornut img
+
+{
+
+	width: 440px;
+
+	height: 490px;
+
+}
+
+
+
+.fornut p
+
+{
+
+	margin-bottom: 30px;
+
+}
+
+
+
+.fornut figcaption
+
+{
+
+	margin-top: 8px;
+
+}
+
+.fornut a
+
+{
+
+	color:red;
+
+}
+
+.fornut select
+
+{
+
+	width:40%;
+
+}
+
+.fornut button
+
+{
+
+	background-color:red;
+
+
+
+}
+
+.fornut table
+
+{
+
+	margin:0 auto;
+
+}
+#rej hover{
+	color:aqua;
+}
+
